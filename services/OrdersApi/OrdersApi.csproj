@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>Pratik Sheth</Authors>
+    <Description>Orders microservice for an e-commerce sample on Azure Container Apps, built by Pratik Sheth.</Description>
+  </PropertyGroup>
+
+</Project>
